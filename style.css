@@ -20,6 +20,6 @@ ul {
     padding: 0;
     width: 60px;
 } 
-li a {
-    display: block;
+li {
+  text-align: center;
 }
