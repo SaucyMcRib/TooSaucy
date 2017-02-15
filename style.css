@@ -9,7 +9,8 @@ body {
   background-color: gold;
 }
 img {
-  vertical-align: middle;
+  display: block;
+  margin: auto;
   width: 250px;
   height: 200px;
 }
