@@ -25,7 +25,3 @@ ul {
     position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
 } 
-.active {
-    background-color: #4CAF50;
-    color: white;
-}
