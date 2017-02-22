@@ -15,15 +15,6 @@ img {
   width: 40%;
   height: 40%;
 }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 20%;
-    height: 100%; /* Full height */
-    position: fixed; /* Make it stick, even on scroll */
-    overflow: auto; /* Enable scrolling if the sidenav has too much content */
-}
   ul {
     list-style-type: none;
     margin: 0;
@@ -47,4 +38,3 @@ a:hover:not(.active) {
 .active {
 background-color:#4CAF50;
 }
-} 
