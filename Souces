@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://saucymcrib.github.io/TooSaucy/style.css">
+    <meta charset="utf-8">
+    <title> Sources </title>
+  </head>
+    <body>
+    <ul>
+       <li><a href="https://saucymcrib.github.io/TooSaucy/">Home</a></li>
+       <li><a href="https://saucymcrib.github.io/Hobbies/">Hobbies</a></li>
+       <li><a href="https://saucymcrib.github.io/League/">League</a></li>
+       <li><a href="https://saucymcrib.github.io/Sources/">Sources</a></li>
+    </ul>
+      <h2> This Is Where You Can Find The Original Images </h2>
+        <ul>
+    <br><li><a href="http://gameinfo.na.leagueoflegends.com/en/game-info/champions/zilean/">Image of Zilean on homepage and League page</a><li>
+    <br><li><a href="http://gameinfo.na.leagueoflegends.com/en/game-info/champions/graves/">Image of Graves on League page</a><li>
+    <br><li><a href="http://gameinfo.na.leagueoflegends.com/en/game-info/champions/tryndamere/">Image of Tryndamere on League page</a><li>
+      </ul>
+    </body>
+</html>
