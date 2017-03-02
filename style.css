@@ -41,6 +41,7 @@ background-color:#4CAF50;
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
+    border-color: goldenrod;
 }
 img { 
    border:3px solid goldenrod;
