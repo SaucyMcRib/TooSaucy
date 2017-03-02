@@ -45,3 +45,7 @@ table, th, td {
 img { 
    border:3px solid goldenrod;
 }
+h2 {
+  text-align: center;
+  font-size: 40px;
+}
